@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My concentration has gone.]]></title>
-  <link href="http://Remicck.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Create | My concentration has gone.]]></title>
+  <link href="http://Remicck.github.io/blog/categories/create/atom.xml" rel="self"/>
   <link href="http://Remicck.github.io/"/>
   <updated>2014-02-06T17:06:22+09:00</updated>
   <id>http://Remicck.github.io/</id>
@@ -35,19 +35,6 @@
 <p>このプロジェクトは、個人的な勉強の場なので、WebSocketでサーバーに投げて、その結果をリアルタイムに更新されるようなものを考えています。ってことでNode.jsでも使おうかなぁと。Node.js歴はTwitter BotとIRC botを作ったくらいです！！ｗ</p>
 
 <p>さぁ、いつ完成するのだろうか・・・。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Octopress始めました]]></title>
-    <link href="http://Remicck.github.io/blog/2014/02/06/octopressshi-memasita/"/>
-    <updated>2014-02-06T16:34:48+09:00</updated>
-    <id>http://Remicck.github.io/blog/2014/02/06/octopressshi-memasita</id>
-    <content type="html"><![CDATA[<p>巷で話題の？Octopressを構築してみました。見ての通りGithubにホスティングさせております。ちょいちょい詰まったんですがRuby1.9.3を入れたのかな、んでできるようになりました。</p>
-
-<p>さて、作ったは良いけどこのBlog何に使おうか非常に悩んでおります。あと画像アップロードできないよなぁとか思いながら・・・。その場合S3とかに画像だけホスティングさせて、リンクを貼る感じに対応するのが良いんだろうなぁ・・・。S3にGyazoとかでアップすれば結構良さげかも知らん、しらないけど。</p>
-
-<p>ということで、今後記事を書くかどうかはわかりません。とりあえず適当にやっていきます。</p>
 ]]></content>
   </entry>
   
