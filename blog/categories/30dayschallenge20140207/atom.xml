@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: 30daysCharange20140207 | My concentration has gone.]]></title>
-  <link href="http://Remicck.github.io/blog/categories/30dayscharange20140207/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 30daysChallenge20140207 | My concentration has gone.]]></title>
+  <link href="http://Remicck.github.io/blog/categories/30dayschallenge20140207/atom.xml" rel="self"/>
   <link href="http://Remicck.github.io/"/>
-  <updated>2014-02-10T03:33:00+09:00</updated>
+  <updated>2014-02-10T03:38:04+09:00</updated>
   <id>http://Remicck.github.io/</id>
   <author>
     <name><![CDATA[Remicck]]></name>
@@ -14,11 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[30days Charange 20140207- Day4]]></title>
+    <title type="html"><![CDATA[30days Challenge 20140207- Day4]]></title>
     <link href="http://Remicck.github.io/blog/2014/02/10/30days-charange-20140207-day4/"/>
     <updated>2014-02-10T03:24:23+09:00</updated>
     <id>http://Remicck.github.io/blog/2014/02/10/30days-charange-20140207-day4</id>
-    <content type="html"><![CDATA[<p>I posted <a href="http://remicck.github.io/blog/2014/02/09/30days-charange-20140207-day3/">30days charange 20140207 day3</a> yesterday and wrote I have built KAMAKURA.</p>
+    <content type="html"><![CDATA[<p>I posted <a href="http://remicck.github.io/blog/2014/02/09/30days-challenge-20140207-day3/">30days Challenge 20140207 day3</a> yesterday and wrote I have built KAMAKURA.</p>
 
 <p>A few hours ago, when I was going home and look the park, My Kamakura has been broken OMG.</p>
 
@@ -27,7 +27,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[30days charange 20140207- day3]]></title>
+    <title type="html"><![CDATA[30days Challenge 20140207- day3]]></title>
     <link href="http://Remicck.github.io/blog/2014/02/09/30days-charange-20140207-day3/"/>
     <updated>2014-02-09T23:24:52+09:00</updated>
     <id>http://Remicck.github.io/blog/2014/02/09/30days-charange-20140207-day3</id>
@@ -42,7 +42,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[30days Charange 20140207- Day2]]></title>
+    <title type="html"><![CDATA[30days Challenge 20140207- Day2]]></title>
     <link href="http://Remicck.github.io/blog/2014/02/08/30days-charange-20140207-day2/"/>
     <updated>2014-02-08T03:13:25+09:00</updated>
     <id>http://Remicck.github.io/blog/2014/02/08/30days-charange-20140207-day2</id>
@@ -53,7 +53,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[30days charange 20140207- day1]]></title>
+    <title type="html"><![CDATA[30days Challenge 20140207- day1]]></title>
     <link href="http://Remicck.github.io/blog/2014/02/07/30days-charange-20140207/"/>
     <updated>2014-02-07T23:25:24+09:00</updated>
     <id>http://Remicck.github.io/blog/2014/02/07/30days-charange-20140207</id>
