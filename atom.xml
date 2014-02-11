@@ -4,7 +4,7 @@
   <title><![CDATA[My concentration has gone.]]></title>
   <link href="http://Remicck.github.io/atom.xml" rel="self"/>
   <link href="http://Remicck.github.io/"/>
-  <updated>2014-02-11T15:00:40+09:00</updated>
+  <updated>2014-02-11T15:02:12+09:00</updated>
   <id>http://Remicck.github.io/</id>
   <author>
     <name><![CDATA[Remicck]]></name>
@@ -21,6 +21,8 @@
     <content type="html"><![CDATA[<p>I bought a used chair at 10,000 yen!</p>
 
 <p><img src="http://remicck.github.io/images/posts/visconte.jpg" alt="chair" /></p>
+
+<p>This is <a href="http://www.okamura.co.jp/product/seating/visconte/">Okamura Visconte</a>.</p>
 
 <p>I feel so good.</p>
 
