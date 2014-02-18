@@ -4,7 +4,7 @@
   <title><![CDATA[My concentration has gone.]]></title>
   <link href="http://Remicck.github.io/atom.xml" rel="self"/>
   <link href="http://Remicck.github.io/"/>
-  <updated>2014-02-17T17:45:54+09:00</updated>
+  <updated>2014-02-18T15:20:46+09:00</updated>
   <id>http://Remicck.github.io/</id>
   <author>
     <name><![CDATA[Remicck]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[30days Charange 20140207- Day12]]></title>
+    <link href="http://Remicck.github.io/blog/2014/02/18/30days-charange-20140207-day12/"/>
+    <updated>2014-02-18T15:19:05+09:00</updated>
+    <id>http://Remicck.github.io/blog/2014/02/18/30days-charange-20140207-day12</id>
+    <content type="html"><![CDATA[<p>My first one line dialy and I uploaded <code>Rakefile</code> at <a href="https://gist.github.com/Remicck/9065508">Gist</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Edit Rakefile of Octopress: add 2nd argument to new_post[]]]></title>
