@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 30daysChallenge20140207 | My concentration has gone.]]></title>
   <link href="http://Remicck.github.io/blog/categories/30dayschallenge20140207/atom.xml" rel="self"/>
   <link href="http://Remicck.github.io/"/>
-  <updated>2014-02-22T01:14:55+09:00</updated>
+  <updated>2014-02-23T18:47:51+09:00</updated>
   <id>http://Remicck.github.io/</id>
   <author>
     <name><![CDATA[Remicck]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[30days Charange 20140207- Day16]]></title>
+    <link href="http://Remicck.github.io/blog/2014/02/22/30days-charange-20140207-day16/"/>
+    <updated>2014-02-22T18:27:27+09:00</updated>
+    <id>http://Remicck.github.io/blog/2014/02/22/30days-charange-20140207-day16</id>
+    <content type="html"><![CDATA[<p>I forgot to write a dialy that is second times.</p>
+
+<p><img src="http://remicck.github.io/images/posts/DSC_0032.jpg" alt="airport" /></p>
+
+<p>YESTERDAY, I went to Tokyo International Airport to take a photo. I took many photos of plane and building.<br/>
+Tarminal 2 that is for national airlines is very fine. International Terminal is too. But Terminal 1 is a little dark i suppose.</p>
+
+<p>But this air port is very good place for me bcz there is many planes I like it.</p>
+
+<p>I wanna go there some other time when I have a time.</p>
+
+<p><img src="http://remicck.github.io/images/posts/DSC_0023.jpg" alt="airport" />
+<img src="http://remicck.github.io/images/posts/DSC_0071.jpg" alt="airport" />
+<img src="http://remicck.github.io/images/posts/DSC_0094.jpg" alt="airport" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[30days Charange 20140207- Day15]]></title>
@@ -51,21 +73,6 @@ I hope fnatic will be a winner of LCS EU.</p>
     <updated>2014-02-18T15:19:05+09:00</updated>
     <id>http://Remicck.github.io/blog/2014/02/18/30days-charange-20140207-day12</id>
     <content type="html"><![CDATA[<p>My first one line dialy and I uploaded <code>Rakefile</code> at <a href="https://gist.github.com/Remicck/9065508">Gist</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[30days Charange 20140207- Day11]]></title>
-    <link href="http://Remicck.github.io/blog/2014/02/17/30days-charange-20140207-day11/"/>
-    <updated>2014-02-17T17:04:06+09:00</updated>
-    <id>http://Remicck.github.io/blog/2014/02/17/30days-charange-20140207-day11</id>
-    <content type="html"><![CDATA[<p>Im trying to edit <code>rakefile</code> of Octopress to create new post easily.</p>
-
-<p>I wanna post 1 line post, so I tried to add a 2nd argument. If there is it, i want <code>rake new_post</code> command to create with 2nd argument as a main paragraph.</p>
-
-<p>But i dont know how to write Ruby.</p>
-
-<p>Lets study ruby today&hellip;</p>
 ]]></content>
   </entry>
   
