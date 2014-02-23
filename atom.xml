@@ -4,7 +4,7 @@
   <title><![CDATA[My concentration has gone.]]></title>
   <link href="http://Remicck.github.io/atom.xml" rel="self"/>
   <link href="http://Remicck.github.io/"/>
-  <updated>2014-02-23T18:47:51+09:00</updated>
+  <updated>2014-02-23T19:21:28+09:00</updated>
   <id>http://Remicck.github.io/</id>
   <author>
     <name><![CDATA[Remicck]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[30days Charange 20140207- Day17]]></title>
+    <link href="http://Remicck.github.io/blog/2014/02/23/30days-charange-20140207-day17/"/>
+    <updated>2014-02-23T19:20:33+09:00</updated>
+    <id>http://Remicck.github.io/blog/2014/02/23/30days-charange-20140207-day17</id>
+    <content type="html"><![CDATA[<p><a href="https://www.pushbullet.com/">Push Bullet</a> is very good tool for me. Because of this, I can kill the notification sound of my android device.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[30days Charange 20140207- Day16]]></title>
@@ -403,19 +412,6 @@ githubにホスティングしているのでコードを書いたらその辺�
 <p>このプロジェクトは、個人的な勉強の場なので、WebSocketでサーバーに投げて、その結果をリアルタイムに更新されるようなものを考えています。ってことでNode.jsでも使おうかなぁと。Node.js歴はTwitter BotとIRC botを作ったくらいです！！ｗ</p>
 
 <p>さぁ、いつ完成するのだろうか・・・。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Octopress始めました]]></title>
-    <link href="http://Remicck.github.io/blog/2014/02/06/octopressshi-memasita/"/>
-    <updated>2014-02-06T16:34:48+09:00</updated>
-    <id>http://Remicck.github.io/blog/2014/02/06/octopressshi-memasita</id>
-    <content type="html"><![CDATA[<p>巷で話題の？Octopressを構築してみました。見ての通りGithubにホスティングさせております。ちょいちょい詰まったんですがRuby1.9.3を入れたのかな、んでできるようになりました。</p>
-
-<p>さて、作ったは良いけどこのBlog何に使おうか非常に悩んでおります。あと画像アップロードできないよなぁとか思いながら・・・。その場合S3とかに画像だけホスティングさせて、リンクを貼る感じに対応するのが良いんだろうなぁ・・・。S3にGyazoとかでアップすれば結構良さげかも知らん、しらないけど。</p>
-
-<p>ということで、今後記事を書くかどうかはわかりません。とりあえず適当にやっていきます。</p>
 ]]></content>
   </entry>
   
