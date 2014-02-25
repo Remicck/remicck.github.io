@@ -4,7 +4,7 @@
   <title><![CDATA[My concentration has gone.]]></title>
   <link href="http://Remicck.github.io/atom.xml" rel="self"/>
   <link href="http://Remicck.github.io/"/>
-  <updated>2014-02-24T09:32:13+09:00</updated>
+  <updated>2014-02-25T17:19:38+09:00</updated>
   <id>http://Remicck.github.io/</id>
   <author>
     <name><![CDATA[Remicck]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[30days Charange 20140207- Day18]]></title>
+    <link href="http://Remicck.github.io/blog/2014/02/25/30days-charange-20140207-day18/"/>
+    <updated>2014-02-25T17:19:26+09:00</updated>
+    <id>http://Remicck.github.io/blog/2014/02/25/30days-charange-20140207-day18</id>
+    <content type="html"><![CDATA[<p>I suppose that a public undertaking about some softwares(web?) will be needed.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[30days Charange 20140207- Day18]]></title>
@@ -377,31 +386,6 @@ Markdownはすごく良いです。Macをお使いの皆様は<a href="http://mo
     <content type="html"><![CDATA[<h2>2014 Winter Olympics in Sochi began!!!</h2>
 
 <p>I hope this olympic embodys &lsquo;Hot. Cool. Yours.&rsquo; too :)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[30days Challenge 20140207- day1]]></title>
-    <link href="http://Remicck.github.io/blog/2014/02/07/30days-challenge-20140207/"/>
-    <updated>2014-02-07T23:25:24+09:00</updated>
-    <id>http://Remicck.github.io/blog/2014/02/07/30days-challenge-20140207</id>
-    <content type="html"><![CDATA[<p>せっかくなので30日チャレンジでもやろうかと。<a href="http://www.remicck.net">メインブログ</a>ではやってたこともあるんですけども。一度しかできなかったなぁ。</p>
-
-<h2>抱負</h2>
-
-<p>一応今回の目標は、<strong>頑張って書く、やりきる</strong>くらいで。<br/>
-githubにホスティングしているのでコードを書いたらその辺をアップしようみたいな、まぁ軽いノリで始めます。</p>
-
-<p>今日は何も書いてません！</p>
-
-<p>ってことでどうぞよろしく。</p>
-
-<p>※30日チャレンジについてはこちら</p>
-
-<iframe src="http://embed.ted.com/talks/lang/ja/matt_cutts_try_something_new_for_30_days.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-
-
-<p>終了予定は来月の6日で。</p>
 ]]></content>
   </entry>
   
