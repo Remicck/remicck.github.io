@@ -4,7 +4,7 @@
   <title><![CDATA[My concentration has gone.]]></title>
   <link href="http://Remicck.github.io/atom.xml" rel="self"/>
   <link href="http://Remicck.github.io/"/>
-  <updated>2014-02-27T12:13:24+09:00</updated>
+  <updated>2014-02-27T21:22:19+09:00</updated>
   <id>http://Remicck.github.io/</id>
   <author>
     <name><![CDATA[Remicck]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[30days Charange 20140207- Day21]]></title>
+    <link href="http://Remicck.github.io/blog/2014/02/27/30days-charange-20140207-day21/"/>
+    <updated>2014-02-27T21:18:26+09:00</updated>
+    <id>http://Remicck.github.io/blog/2014/02/27/30days-charange-20140207-day21</id>
+    <content type="html"><![CDATA[<p>I installed tmux and more. I tried to make my dream console:)</p>
+
+<p>Now, Im studying Vim. But my .vimrc has many bugs. Someday, I would have my beautiful .vimrc :(</p>
+
+<p>It is fun for me to try building hard too.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[30days Charange 20140207- Day20]]></title>
@@ -376,21 +389,6 @@ Markdownはすごく良いです。Macをお使いの皆様は<a href="http://mo
 <p>A few hours ago, when I was going home and look the park, My Kamakura has been broken OMG.</p>
 
 <p>But, I suppose many children could look it, so i feel good. Next time, Ill build a Kamakura more better.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[30days Challenge 20140207- day3]]></title>
-    <link href="http://Remicck.github.io/blog/2014/02/09/30days-challenge-20140207-day3/"/>
-    <updated>2014-02-09T23:24:52+09:00</updated>
-    <id>http://Remicck.github.io/blog/2014/02/09/30days-challenge-20140207-day3</id>
-    <content type="html"><![CDATA[<p>Yesterday, It is a big snow day Ive never seen in Tokyo. So I tried to build &lsquo;KAMAKURA&rsquo; in a park.</p>
-
-<p><img src="http://remicck.github.io/images/posts/kamakura.jpg" alt="kamakura" /></p>
-
-<p>4 people are put on this Kamakura.</p>
-
-<p>I felt very good when I have saw people go to my Kamakura !! :)</p>
 ]]></content>
   </entry>
   
