@@ -4,7 +4,7 @@
   <title><![CDATA[My concentration has gone.]]></title>
   <link href="http://Remicck.github.io/atom.xml" rel="self"/>
   <link href="http://Remicck.github.io/"/>
-  <updated>2014-03-03T03:20:53+09:00</updated>
+  <updated>2014-03-03T16:22:33+09:00</updated>
   <id>http://Remicck.github.io/</id>
   <author>
     <name><![CDATA[Remicck]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[30days Charange 20140207- Day25]]></title>
+    <link href="http://Remicck.github.io/blog/2014/03/03/30days-charange-20140207-day25/"/>
+    <updated>2014-03-03T16:09:34+09:00</updated>
+    <id>http://Remicck.github.io/blog/2014/03/03/30days-charange-20140207-day25</id>
+    <content type="html"><![CDATA[<p>I wanna use <a href="https://github.com/technicalpickles/homesick">homesick</a> to sync my dotfiles.</p>
+
+<p>Today, I passed a measurement of effectiveness for temporary-driver lisence. If i get a temporary lisence, I wanna drive with my father a lot of times. Off course, for practicing :)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[30days Charange 20140207- Day24]]></title>
@@ -325,52 +336,6 @@ I hope fnatic will be a winner of LCS EU.</p>
 <p>I remember i havenot know something to drive&hellip; And I must study driving roles.</p>
 
 <p>:(</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Octopress is good]]></title>
-    <link href="http://Remicck.github.io/blog/2014/02/12/octopress-is-good/"/>
-    <updated>2014-02-12T16:36:06+09:00</updated>
-    <id>http://Remicck.github.io/blog/2014/02/12/octopress-is-good</id>
-    <content type="html"><![CDATA[<p>約１週間、Octopressを使って記事を書いていますが、思ったよりも良い感じがしてますのでそれについてまとめていきます。</p>
-
-<h2>Octopressを一週間使って感じたこと</h2>
-
-<h3>Themes</h3>
-
-<p>まずOctopressにもテーマの変更ができます。もちろん、自分でソースを弄って変更することもできるわけですが、手っ取り早く公開されているものを使わせていただくとして、現在公開されているものの多くはシンプルです。</p>
-
-<p>Wordpressも初期のテーマは凄くシンプルなのですが、Widgetとか使いはじめるとなんだかんだで凝っていき、ごちゃごちゃしてしまうことが・・・、はい、私のことですけど。</p>
-
-<p>OctopressはWidgetのようなものをサポートしていないので、必然的にシンプルに見えます。なんか、それが私の中ではすごく良いなぁと感じる部分になっています。</p>
-
-<h3>rake generate</h3>
-
-<p>Octopressは記事のHTMLを生成して、アップロードしています。つまりPHPなどと違い、アクセスに対して動的に生成するのではなく、静的サイトをアップロードしているわけですね。ちなみにその処理がこの<code>rake generate</code>で行われるんですけども。</p>
-
-<p>つまり、Webでみた時のdelayが一般的には小さくて済むはずです。特にシンプルなテーマ、文字メインの記事などでは爆速になるんじゃないかなぁと。僕の場合はgithubにホスティングさせてもらってますしその分もプラスかもしれない。</p>
-
-<h3>投稿プロセスは少し不便</h3>
-
-<p>とはいっても、<code>rake new_post['hogehoge']</code>というのは少しめんどくさいなぁと思っています。<br/>
-Markdownはすごく良いです。Macをお使いの皆様は<a href="http://mouapp.com/">Mou</a>というクライアントを使うことをおすすめします。詳しくはこちらへ</p>
-
-<p><a href="http://www.remicck.net/archives/2681">Markdown | SteadyWorX</a></p>
-
-<p>現在、30Days Callengeを行っているので、そのタイトルがめんどくさいです。具体的には<code>rake new_post['30days Charange 20140207- Day6']</code>なげぇ！！と。このへんは全部zshの履歴保存機能を使ってC-rから検索してます。さまさまですね。使っててよかった。</p>
-
-<p>しかしまぁとっつきにくさは大きいんじゃないかと。</p>
-
-<h3>rake deployがかっこいい</h3>
-
-<p>かっこいい</p>
-
-<h2>まとめ</h2>
-
-<p>こんなかんじです。最後に言うとしたら、Githubの個人ページにある<strong>Your Contributions</strong>がOctopressのせいで<strong>すごくギッ活してるようにみえる</strong>のが難点です。ほんとごめんなさい・・・ｗ</p>
-
-<p>ってことで、やってみるといいと思いますよ！！</p>
 ]]></content>
   </entry>
   
