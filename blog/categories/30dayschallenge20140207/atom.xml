@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 30daysChallenge20140207 | My concentration has gone.]]></title>
   <link href="http://Remicck.github.io/blog/categories/30dayschallenge20140207/atom.xml" rel="self"/>
   <link href="http://Remicck.github.io/"/>
-  <updated>2014-03-03T16:22:33+09:00</updated>
+  <updated>2014-03-28T16:42:26+09:00</updated>
   <id>http://Remicck.github.io/</id>
   <author>
     <name><![CDATA[Remicck]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[30days Charange 20140207- Day26]]></title>
+    <link href="http://Remicck.github.io/blog/2014/03/28/30days-charange-20140207-day26/"/>
+    <updated>2014-03-28T16:42:20+09:00</updated>
+    <id>http://Remicck.github.io/blog/2014/03/28/30days-charange-20140207-day26</id>
+    <content type="html"><![CDATA[<p>A month has passed. Im suck.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[30days Charange 20140207- Day25]]></title>
@@ -48,19 +57,6 @@
     <updated>2014-02-28T00:18:56+09:00</updated>
     <id>http://Remicck.github.io/blog/2014/02/28/30days-charange-20140207-day22</id>
     <content type="html"><![CDATA[<p>Hard drinking day&hellip;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[30days Charange 20140207- Day21]]></title>
-    <link href="http://Remicck.github.io/blog/2014/02/27/30days-charange-20140207-day21/"/>
-    <updated>2014-02-27T21:18:26+09:00</updated>
-    <id>http://Remicck.github.io/blog/2014/02/27/30days-charange-20140207-day21</id>
-    <content type="html"><![CDATA[<p>I installed tmux and more. I tried to make my dream console:)</p>
-
-<p>Now, Im studying Vim. But my .vimrc has many bugs. Someday, I would have my beautiful .vimrc :(</p>
-
-<p>It is fun for me to try building hard too.</p>
 ]]></content>
   </entry>
   
